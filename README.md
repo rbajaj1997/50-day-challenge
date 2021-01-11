@@ -26,3 +26,10 @@
 ## Day 4 - Hidden Seach Widget 
 
 - `element.classList.toggle()` can be used to switch css classes instead of adding and removing them.
+
+---
+
+## Day 5 - Blurry Loading
+
+- `background` in CSS is shortform for various properties. [MDN Link](https://developer.mozilla.org/en-US/docs/Web/CSS/background)
+- `calc()` function can be used for doing various calculations. [MDN Link](https://developer.mozilla.org/en-US/docs/Web/CSS/calc())
