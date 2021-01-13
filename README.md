@@ -40,4 +40,12 @@
 ## Day 6 - Scroll Animaion
 
 - `box-shadow` is a very important property in css, to give a good look to elements. It stands for the following: `offset-x | offset-y | blur-radius | spread-radius | color`. [Read More Here](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
-- There are multiple ways to get the dimensions of the viewport or to get the coordinates of an element on tge web page. In this project we used `window.inneright()` to get the height of viewport and `Element.getBoundingClientRect()` to get the position of every box w.r.t to the top. read more about these in MDN. 
+- There are multiple ways to get the dimensions of the viewport or to get the coordinates of an element on the web page. In this project we used `window.inneright()` to get the height of viewport and `Element.getBoundingClientRect()` to get the position of every box w.r.t to the top. Read more about these in MDN. 
+
+
+---
+
+## Day 7 - Split Landing Page
+
+- Read more about the `whitespace` css property. In this project it was used to prevent text elements from not wrapping.
+- Lot of css variables were used and their importance was evident.
