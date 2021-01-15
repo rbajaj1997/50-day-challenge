@@ -49,3 +49,18 @@
 
 - Read more about the `whitespace` css property. In this project it was used to prevent text elements from not wrapping.
 - Lot of css variables were used and their importance was evident.
+
+---
+
+### Day 8 - Form Wave Animation
+
+- The label elements were dynamically changed in this project just so that we could implement the wave animation. Also notice the way different animation delays were given to the span elements.
+- One thing I learnt in this project is that often styling on inline elements does not work. We need to convert them to block elements specially for positioning. 
+
+
+---
+
+### Day 9 - Sound Board
+
+- Html `audio` elements were used in this project. `play()` method is for playing songs. To stop the songs we have to first pause it using `pause()` method and then set `currentTime` property to 0.
+- Also we created elements dynamically and appended them to body here.
