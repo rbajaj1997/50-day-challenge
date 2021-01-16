@@ -64,3 +64,10 @@
 
 - Html `audio` elements were used in this project. `play()` method is for playing songs. To stop the songs we have to first pause it using `pause()` method and then set `currentTime` property to 0.
 - Also we created elements dynamically and appended them to body here.
+
+--- 
+
+### Day 10 - Dad Jokes
+
+- Learnt about fetch api. And this project showed how to use it via promises as well as via async await method. Also there are differnt properties we can pass as config while making API call. Like this project showed the use of `Accept: application/json` here.
+- `letter-spacing`, `line-height`, `box-shadow` are useful properties to make an application look good.
