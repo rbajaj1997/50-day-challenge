@@ -71,3 +71,9 @@
 
 - Learnt about fetch api. And this project showed how to use it via promises as well as via async await method. Also there are differnt properties we can pass as config while making API call. Like this project showed the use of `Accept: application/json` here.
 - `letter-spacing`, `line-height`, `box-shadow` are useful properties to make an application look good.
+
+---
+
+### Day 11 - Event Keycodes
+
+- `display: inline-flex` was used in this project. [Here](http://jsfiddle.net/mgr0en3q/1/) is a fiddle which explains the difference. It makes the flex container display inline. Display is talking about the parent element, so means when we say: display: flex;, it's about the element and when we say display:inline-flex;, is also making the element itself inline
