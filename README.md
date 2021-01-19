@@ -77,3 +77,11 @@
 ### Day 11 - Event Keycodes
 
 - `display: inline-flex` was used in this project. [Here](http://jsfiddle.net/mgr0en3q/1/) is a fiddle which explains the difference. It makes the flex container display inline. Display is talking about the parent element, so means when we say: display: flex;, it's about the element and when we say display:inline-flex;, is also making the element itself inline
+
+---
+
+### Day 12 - FAQ Collapse
+
+- We can embed font-awesome icons with plain css using the `content` property. [This link](https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements) explains how to do it.
+- `parentNode` returns the parent of the specified node in DOM tree. This has been used in this project to assign CSS class.
+- The CSS here is pretty interesting. Go through the project. 
