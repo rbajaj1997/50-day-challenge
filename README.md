@@ -85,3 +85,9 @@
 - We can embed font-awesome icons with plain css using the `content` property. [This link](https://fontawesome.com/how-to-use/on-the-web/advanced/css-pseudo-elements) explains how to do it.
 - `parentNode` returns the parent of the specified node in DOM tree. This has been used in this project to assign CSS class.
 - The CSS here is pretty interesting. Go through the project. 
+
+---
+
+### Day 13 - Random Choice Picker
+
+- Heavy on `setTimeOut` and `setInterval` 
