@@ -98,4 +98,10 @@
 
 - We can set multiple transitions at the same time using comma seperated values. For Example: `transition: transform 0.6s linear, opacity 0.6s linear;`
 - `linear-gradient` was used in this project. Very useful property.
-- Hamburger equivalent icon was created in this project. Similar idea can be used at many places. Look into it. 
+- Hamburger equivalent icon was created in this project. Similar idea can be used at many places. Look into it.
+
+
+### Day 15 - Increment Counter
+
+- `getAttribute()` can be used to get any attribute value from any HTML element.
+- `innerText` should be used to set text inside HTML elements  
