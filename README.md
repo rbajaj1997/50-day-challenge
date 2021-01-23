@@ -105,3 +105,8 @@
 
 - `getAttribute()` can be used to get any attribute value from any HTML element.
 - `innerText` should be used to set text inside HTML elements  
+
+
+### Dy 16 - Drink Water
+
+- `nextSibling` and `nextElementSibling`. Two nice properties. [Link](https://stackoverflow.com/questions/31097016/whats-the-difference-between-nextelementsibling-vs-nextsibling) explaining the difference between two.
