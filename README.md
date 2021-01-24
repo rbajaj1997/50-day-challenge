@@ -110,3 +110,9 @@
 ### Dy 16 - Drink Water
 
 - `nextSibling` and `nextElementSibling`. Two nice properties. [Link](https://stackoverflow.com/questions/31097016/whats-the-difference-between-nextelementsibling-vs-nextsibling) explaining the difference between two.
+
+
+### Dy 17 - Movie App
+
+- `overflow: auto` The auto value is similar to scroll , but it adds scrollbars only when necessary.
+- This project uses the fetch api and is pretty cool. 
