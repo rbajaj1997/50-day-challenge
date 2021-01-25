@@ -116,3 +116,9 @@
 
 - `overflow: auto` The auto value is similar to scroll , but it adds scrollbars only when necessary.
 - This project uses the fetch api and is pretty cool. 
+
+
+### Day 18 - Background Slider
+
+- Very cool project. Have a look. Can have various implementations.
+- `background-position` can have various types of values. Have a look at MDN docs.
