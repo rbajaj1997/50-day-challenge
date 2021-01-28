@@ -122,3 +122,8 @@
 
 - Very cool project. Have a look. Can have various implementations.
 - `background-position` can have various types of values. Have a look at MDN docs.
+
+
+### Day 19 - Theme Clock
+
+- Very Cool Project again. Showed how to use dark-theme on a website. Have a look.
