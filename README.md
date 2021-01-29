@@ -127,3 +127,9 @@
 ### Day 19 - Theme Clock
 
 - Very Cool Project again. Showed how to use dark-theme on a website. Have a look.
+
+
+### Day 20 - Button Ripple Effect
+
+- In animation keyframes, instead of giving percentages, we can also mention `to` to directly set it to a value.
+- In vanilla js, always remember to remove elements if you are adding them to the DOM. This is the advantage which frameworks/libraries like React provide. 
