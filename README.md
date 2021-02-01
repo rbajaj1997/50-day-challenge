@@ -132,4 +132,9 @@
 ### Day 20 - Button Ripple Effect
 
 - In animation keyframes, instead of giving percentages, we can also mention `to` to directly set it to a value.
-- In vanilla js, always remember to remove elements if you are adding them to the DOM. This is the advantage which frameworks/libraries like React provide. 
+- In vanilla js, always remember to remove elements if you are adding them to the DOM. This is the advantage which frameworks/libraries like React provide.
+
+
+### Day 21 - Drag n Drop
+
+- Deals with drap and drop events. Very Interesting project.
