@@ -138,3 +138,7 @@
 ### Day 21 - Drag n Drop
 
 - Deals with drap and drop events. Very Interesting project.
+
+### Day 22 - Drawing App
+
+- All about HTML canvas.
