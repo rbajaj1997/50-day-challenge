@@ -142,3 +142,7 @@
 ### Day 22 - Drawing App
 
 - All about HTML canvas.
+
+### Day 23 - Kinetic Loader
+
+- If the borders are very thick, they appear as triangles. 
