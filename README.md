@@ -145,4 +145,9 @@
 
 ### Day 23 - Kinetic Loader
 
-- If the borders are very thick, they appear as triangles. 
+- If the borders are very thick, they appear as triangles.
+
+### Day 24 - Content Placeholder
+
+- Learnt about 2 new css properties: `background-position` and `background-size`
+- Very interesting project. See how we can use it in React.
